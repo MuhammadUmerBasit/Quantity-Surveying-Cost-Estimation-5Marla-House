@@ -1,0 +1,16 @@
+# Office and temporary files
+~$*
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large Archives
+*.zip
+*.rar
+*.7z
